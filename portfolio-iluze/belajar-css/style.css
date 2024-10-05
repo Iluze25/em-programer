@@ -1,0 +1,10 @@
+.hello {
+    color: rgb(128, 0, 255);
+    font-family: "Edu AU VIC WA NT Dots", cursive;
+    font-size: 5vw;
+}
+#hello1, #hello2 {
+    color: blue;
+    font-family: "Sixtyfour Convergence", sans-serif;
+}
+
