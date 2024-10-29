@@ -16,7 +16,13 @@ let Umur = 21;
 let Sekolah = "MA AL-ISHLAH";
 let Alamat = "Jamanis";
 
-document.querySelector(".L1").innerHTML += Nama;
-document.querySelector(".L2").innerHTML += Umur;
-document.querySelector(".L3").innerHTML += Sekolah;
-document.querySelector(".L4").innerHTML += Alamat;
+function test() {
+  document.querySelector(".L1").innerHTML += Nama;
+  document.querySelector(".L2").innerHTML += Umur;
+  document.querySelector(".L3").innerHTML += Sekolah;
+  document.querySelector(".L4").innerHTML += Alamat;
+}
+
+let namaHewan = "Kelinci";
+let umurHidup = 10;
+let Makanan = "Herbivora";
