@@ -23,6 +23,7 @@ function test() {
   document.querySelector(".L4").innerHTML += Alamat;
 }
 
+// data hewan
 let namaHewan = "Kelinci";
 let umurHidup = 10;
 let Makanan = "Herbivora";
