@@ -27,3 +27,14 @@ function test() {
 let namaHewan = "Kelinci";
 let umurHidup = 10;
 let Makanan = "Herbivora";
+
+let namaSiswa = "Aditya Ardiansyah";
+
+// ==
+let a = 10;
+if (a === 10) {
+  alert("Benar");
+} else {
+  alert("Salah");
+}
+// ===
